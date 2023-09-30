@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Chione
 
-<img align="left" alt="Avatar" width="150px" src="https://pa1.aminoapps.com/7489/abd2430845db9d572ce88a7a8eec8f208b233a1er1-459-355_hq.gif" />
+<!-- <img align="left" alt="Avatar" width="150px" src="https://pa1.aminoapps.com/7489/abd2430845db9d572ce88a7a8eec8f208b233a1er1-459-355_hq.gif" /> -->
 <h3 align="right"> (^-^*)/ Hello! </h3>
 <!-- <a href="https://discordapp.com/users/1118187841344770119">
   <img align="left" alt="Static Badge" src="https://img.shields.io/badge/Discord-white?style=flat&logo=Discord&logoColor=white&label=Chione%231891&labelColor=%235865F2&color=%235865F2&cacheSeconds=3600">
