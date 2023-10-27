@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://discordapp.com/users/1118187841344770119">
          <img align="left" alt="Static Badge" src="https://img.shields.io/badge/Chione-%235865F2?logo=discord&logoColor=white">
 </a> -->
-<p align="right"> I'm Chione, a self-taught programmer from the UK <br> Feel free to add me on any of the socials linked </p> <br>
+<p align="right"> I'm Chione, a self-taught programmer from the UK <br> Learning C atm~ </p> <br>
 
 ### Tools and languages:
 
@@ -51,6 +51,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+</a>
+<a href="[https://www.python.org](https://www.oracle.com/java/)" target="_blank" rel="noreferrer">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="python" width="40" height="40" />
 </a>
 <hr>
 
