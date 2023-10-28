@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://discordapp.com/users/1118187841344770119">
          <img align="left" alt="Static Badge" src="https://img.shields.io/badge/Chione-%235865F2?logo=discord&logoColor=white">
 </a> -->
-<p align="right"> I'm Chione, a self-taught programmer from Europe <br> Learning C atm~ </p> <br>
+<p align="right"> I'm Chione, a self-taught programmer from Europe <br> Learning Java and C atm~ <br> looking for public projects to work on! </p>
 
 ### Tools and languages:
 
