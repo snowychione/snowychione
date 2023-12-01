@@ -57,14 +57,4 @@ Here are some ideas to get you started:
 </a>
 <hr>
 
-### What IDEs do I use?
-
-<a href="https://code.visualstudio.com/">
-     <img align="left" height="30"
-         src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
-</a>
-
-<a href="https://www.jetbrains.com/pycharm/">
-     <img align="left" height="30"
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"/>
-</a>
+What IDEs do I use? - vscodium 
